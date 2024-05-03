@@ -7,7 +7,7 @@ This dataset includes student records, course details, topics, departmental data
 
 Throughout this repository, I explore managing and transforming student records, course data, departmental information, and instructor profiles using SSIS. By focusing on data accuracy and consistency, I highlight the role of SSIS in optimizing educational administrative processes within institutions like ITI.
 
-![SSIS ETL-structured data]([image_path](https://qph.cf2.quoracdn.net/main-qimg-41545626eff4e71738a3bc162155de2f))
+![SSIS ETL-structured data](https://qph.cf2.quoracdn.net/main-qimg-41545626eff4e71738a3bc162155de2f)
 
 
 ## Purpose
