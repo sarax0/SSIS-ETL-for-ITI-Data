@@ -7,7 +7,9 @@ This dataset includes student records, course details, topics, departmental data
 
 Throughout this repository, I explore managing and transforming student records, course data, departmental information, and instructor profiles using SSIS. By focusing on data accuracy and consistency, I highlight the role of SSIS in optimizing educational administrative processes within institutions like ITI.
 
-https://qph.cf2.quoracdn.net/main-qimg-41545626eff4e71738a3bc162155de2f
+![SSIS ETL-structured data]([image_path](https://qph.cf2.quoracdn.net/main-qimg-41545626eff4e71738a3bc162155de2f
+))
+
 
 ## Purpose
 The primary objective of this lab is to demonstrate my proficiency in ETL processes using SSIS, a robust tool provided by Microsoft for data integration and workflow automation. Through these exercises, I aim to:
