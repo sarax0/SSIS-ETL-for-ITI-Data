@@ -1,4 +1,4 @@
-![Process Illustration](https://github.com/sarax0/SSIS-ETL-for-ITI-Data/assets/122404545/ac0a9bdf-5aa8-4505-a4d7-e215c98a5776)![Process Illustration](https://github.com/sarax0/SSIS-ETL-for-ITI-Data/assets/122404545/066d8283-8da9-4e98-a3f5-ad900797add4)# ITI Data Integration with SSIS: ETL Lab
+# ITI Data Integration with SSIS: ETL Lab
 
 ## Overview
 Welcome to the ITI Data Integration with SSIS repository! This space documents my journey through various SSIS (SQL Server Integration Services) exercises, focusing on Extract, Transform, and Load (ETL) processes. Here, I showcase my expertise in integrating ITI data using SSIS and implementing ETL methodologies effectively.
@@ -7,7 +7,7 @@ This dataset includes student records, course details, topics, departmental data
 
 Throughout this repository, I explore managing and transforming student records, course data, departmental information, and instructor profiles using SSIS. By focusing on data accuracy and consistency, I highlight the role of SSIS in optimizing educational administrative processes within institutions like ITI.
 
-![SSIS ETL-structured data Process Illustration](https://github.com/sarax0/SSIS-ETL-for-ITI-Data/assets/122404545/2e485357-2c04-411d-be08-13b6ea23e2cc)
+![SSIS ETL-structured data Process Illustration](https://github.com/sarax0/SSIS-ETL-for-ITI-Data/assets/122404545/f247b88f-2058-4bfa-89ed-6322b4f52aa1)
 
 ## Purpose
 The primary objective of this lab is to demonstrate my proficiency in ETL processes using SSIS, a robust tool provided by Microsoft for data integration and workflow automation. Through these exercises, I aim to:
